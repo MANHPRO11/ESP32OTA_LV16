@@ -1,0 +1,16 @@
+{
+  "version": "1.0.1",
+  "min_version": "1.0.0",
+  "force": false,
+  "url": "https://raw.githubusercontent.com/MANHPRO11/ESP32OTA_LV16/main/firmware.bin",
+  "checksum_sha256": "af324659af29786576a7b743ef4f1aad29dea8d423d046e53cb5c65ab90c493f",
+  "board": "ESP32-C3",
+  "release_date": "2025-12-29",
+  "notes": [
+    "Cập nhật chức năng điều khiển quạt BT131.",
+    "them topic MAC + clienID.",
+    "Auto-generated JSON.",
+    "Added SHA-256 checksum.",
+    "Ready for GitHub OTA update."
+  ]
+}
