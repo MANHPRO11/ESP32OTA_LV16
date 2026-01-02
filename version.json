@@ -7,12 +7,11 @@
   "board": "ESP32-C3",
   "release_date": "2026-01-02",
   "notes": [
-    "AAAAAAA.",
     "Cập nhật chức năng nhiệt độ.",
     "Cập nhật chức năng điều khiển quạt BT131.",
     "them topic MAC + clienID.",
     "Auto-generated JSON.",
-    "Added SHA-256 checksum.",
     "Ready for GitHub OTA update."
   ]
+
 }
