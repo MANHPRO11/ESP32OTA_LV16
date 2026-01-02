@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "min_version": "1.0.0",
   "force": false,
   "url": "https://raw.githubusercontent.com/MANHPRO11/ESP32OTA_LV16/main/firmware.bin",
-  "checksum_sha256": "d9bed026cee9f7b9cac4891d3da502e87540596e24c5c399a6ba5dd965ef2e34",
+  "checksum_sha256": "5fa0c7d945592d4529e663c3832f7c0acb05e393524d4b679178128df569da19",
   "board": "ESP32-C3",
   "release_date": "2026-01-02",
   "notes": [
@@ -13,5 +13,4 @@
     "Auto-generated JSON.",
     "Ready for GitHub OTA update."
   ]
-
 }
